@@ -113,6 +113,8 @@ img{
 .nav ul li{
     margin: 50px 0;
 }
+
+/*1*/
 .nav ul li a{
     display: grid;
     grid-template-columns: repeat(2,1fr);
