@@ -64,6 +64,7 @@
             //echo '</table>';
             //1
             //2
+            //3
         } else {
             echo SimpleXLSX::parseError();
         }
