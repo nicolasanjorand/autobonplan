@@ -62,6 +62,7 @@
                 //echo '<tr><td>'.implode('</td><td>', $r ).'</td></tr>';
             }
             //echo '</table>';
+            //1
         } else {
             echo SimpleXLSX::parseError();
         }
