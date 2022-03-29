@@ -65,6 +65,7 @@
             //1
             //2
             //3
+            //4
         } else {
             echo SimpleXLSX::parseError();
         }
