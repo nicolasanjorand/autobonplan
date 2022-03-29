@@ -63,6 +63,7 @@
             }
             //echo '</table>';
             //1
+            //2
         } else {
             echo SimpleXLSX::parseError();
         }
